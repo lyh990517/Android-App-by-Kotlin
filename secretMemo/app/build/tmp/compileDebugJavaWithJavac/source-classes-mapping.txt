@@ -1,0 +1,2 @@
+yunho/app/secretmemo/BuildConfig.java
+ yunho.app.secretmemo.BuildConfig
