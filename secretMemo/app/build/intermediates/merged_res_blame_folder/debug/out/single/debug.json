@@ -40,6 +40,10 @@
         "source": "/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "/Users/iyunho/AndroidStudioProjects/secretMemo/app/build/intermediates/merged_res/debug/layout_activity_dairy.xml.flat",
+        "source": "/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/res/layout/activity_dairy.xml"
+    },
+    {
         "merged": "/Users/iyunho/AndroidStudioProjects/secretMemo/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },

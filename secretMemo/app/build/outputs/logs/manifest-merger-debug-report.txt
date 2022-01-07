@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-27:12
 MERGED from [androidx.core:core-ktx:1.7.0] /Users/iyunho/.gradle/caches/transforms-3/a869ce2c5c1e979a799956da41b089f6/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] /Users/iyunho/.gradle/caches/transforms-3/eb80740f1dfca68fbba69852f8ce6331/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/iyunho/.gradle/caches/transforms-3/e84a39df414cb9de1d01b2f64322d94c/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
@@ -44,25 +44,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/iyunho/.gradle/cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/e608ca091a5dd4ad3df1d728bee5237f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/7f921c292c0c1c9b145dfa23564ac847/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/iyunho/.gradle/caches/transforms-3/9bee732b584c7290f2979e35b9b10162/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:3:5-35
 		INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-27:12
 		INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:1-27:12
 		INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:5:5-22:19
+ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:5:5-25:19
 MERGED from [com.google.android.material:material:1.4.0] /Users/iyunho/.gradle/caches/transforms-3/eb80740f1dfca68fbba69852f8ce6331/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /Users/iyunho/.gradle/caches/transforms-3/eb80740f1dfca68fbba69852f8ce6331/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/iyunho/.gradle/caches/transforms-3/e84a39df414cb9de1d01b2f64322d94c/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
@@ -109,6 +109,12 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:19:27-74
+activity#yunho.app.secretmemo.DairyActivity
+ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:22:9-24:15
+	android:theme
+		ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:23:13-60
+	android:name
+		ADDED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:22:19-48
 uses-sdk
 INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml

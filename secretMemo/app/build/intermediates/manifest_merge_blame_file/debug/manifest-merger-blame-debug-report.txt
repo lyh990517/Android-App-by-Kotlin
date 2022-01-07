@@ -11,7 +11,7 @@
 9-->/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:5:5-22:19
+11-->/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:5:5-25:19
 12        android:allowBackup="true"
 12-->/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -48,28 +48,34 @@
 29-->/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:19:27-74
 30            </intent-filter>
 31        </activity>
-32
-33        <provider
-33-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
-34            android:name="androidx.startup.InitializationProvider"
-34-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
-35            android:authorities="yunho.app.secretmemo.androidx-startup"
-35-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
-36            android:exported="false" >
-36-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
-37            <meta-data
-37-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
-38                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-38-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
-39                android:value="androidx.startup" />
-39-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+32        <activity
+32-->/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:22:9-24:15
+33            android:name="yunho.app.secretmemo.DairyActivity"
+33-->/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:22:19-48
+34            android:theme="@style/Theme.Design.NoActionBar" />
+34-->/Users/iyunho/AndroidStudioProjects/secretMemo/app/src/main/AndroidManifest.xml:23:13-60
+35
+36        <provider
+36-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+37            android:name="androidx.startup.InitializationProvider"
+37-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+38            android:authorities="yunho.app.secretmemo.androidx-startup"
+38-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+39            android:exported="false" >
+39-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
 40            <meta-data
-40-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/iyunho/.gradle/caches/transforms-3/c8f90db82e157d7f3c5debcb17b576c8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
-41                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-41-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/iyunho/.gradle/caches/transforms-3/c8f90db82e157d7f3c5debcb17b576c8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+40-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+41                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+41-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
 42                android:value="androidx.startup" />
-42-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/iyunho/.gradle/caches/transforms-3/c8f90db82e157d7f3c5debcb17b576c8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
-43        </provider>
-44    </application>
-45
-46</manifest>
+42-->[androidx.emoji2:emoji2:1.0.0] /Users/iyunho/.gradle/caches/transforms-3/8423aceeeeb7b7008623f7d8c435e4eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+43            <meta-data
+43-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/iyunho/.gradle/caches/transforms-3/c8f90db82e157d7f3c5debcb17b576c8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+44                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+44-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/iyunho/.gradle/caches/transforms-3/c8f90db82e157d7f3c5debcb17b576c8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+45                android:value="androidx.startup" />
+45-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/iyunho/.gradle/caches/transforms-3/c8f90db82e157d7f3c5debcb17b576c8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+46        </provider>
+47    </application>
+48
+49</manifest>

@@ -1,4 +1,4 @@
-#Thu Jan 06 13:04:45 KST 2022
+#Fri Jan 07 14:54:44 KST 2022
 base.2=/Users/iyunho/AndroidStudioProjects/secretMemo/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
 path.2=10/classes.dex
 base.1=/Users/iyunho/AndroidStudioProjects/secretMemo/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
