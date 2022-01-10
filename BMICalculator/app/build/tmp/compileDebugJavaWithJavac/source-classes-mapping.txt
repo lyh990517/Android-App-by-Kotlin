@@ -1,0 +1,2 @@
+yunho/app/bmi_calculator/BuildConfig.java
+ yunho.app.bmi_calculator.BuildConfig
